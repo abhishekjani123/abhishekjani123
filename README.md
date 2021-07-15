@@ -29,8 +29,8 @@
 - ⚡ Fun fact: I love to learn new stuff and connect with people :raised_hands:
 - 📈 My Github Stats :
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishekjani123&show_icons=true&theme=gotham" alt="abhishekjani123" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekjani123&show_icons=true&theme=gotham" alt="abhishekjani123" width="55%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjani123&show_icons=true&theme=gotham" width="37%" alt="abhishekjani123">
 <p>
   <h1 align="center"><b>✨ My Projects ✨</b></h1>
 </p>
