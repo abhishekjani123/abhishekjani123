@@ -24,7 +24,7 @@
 - 🔭 I’m currently practicing on solving Codechef Question and actively participating in Competiton  :grin:
 - 🌱 I’m currently learning Android App Development and Machine Learning.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - ⚡ Fun fact: I love to learn new stuff and connect with people :raised_hands:
 - 📈 My Github Stats :
