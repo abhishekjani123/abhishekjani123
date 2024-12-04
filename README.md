@@ -1,44 +1,85 @@
-<p>
-  <h1 align="center"><b>Hello there, I'm Abhishek 👋</b></h1>
-</p>
+<h1 align="center">👋 Hey there, I'm Abhishek!</h1>
+<h3 align="center">🚀 Machine Learning Enthusiast | Software Engineer | AI Innovator</h3>
 
-<p>
-  <h4 align="center"><b>"Love to Learn and Contribute"</b></h4>
-</p>
+---
 
-<!--<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/abhishekjani123" />
-</p>
--->
 <p align="center">
-<br>
- <a href="https://www.linkedin.com/in/abhishek-jani-21a570158/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:abhishekjani075@gmail.com?subject=Hello%20Abhishek"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abhishek-jani-21a570158/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abhishekjani075@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/abhishekjani123">
+    <img src="https://img.shields.io/github/followers/abhishekjani123?style=for-the-badge&logo=github" alt="GitHub Followers">
+  </a>
 </p>
-<br>
 
+---
 
-<img align="right" height="270px" alt="GIF" src="https://cdn.discordapp.com/attachments/702027317282734104/865119664539303976/wifi.gif" />
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<!--<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />-->
 
-### I am a Computer Science Graduate Student at Rutgers University 
-- 🔭 I’m currently practicing solving Leetcode Questions and actively participating in Competiton  :grin:
-- 🌱 I’m currently learning Android App Development and Machine Learning.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- ⚡ Fun fact: I love to learn new stuff and connect with people :raised_hands:
-<!--- 📈 My Github Stats :-->
-<br>
-<p align="center">
-  <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishekjani123&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjani123&theme=tokyonight" />
-  -->
+### 👨‍💻 About Me
+- 💡 **Current Focus**:  
+  Building scalable **AI/ML models** and developing efficient software solutions.  
+- 🎓 **Education**:  
+  Graduate Student in Computer Science at **Rutgers University**.  
+- 🔭 **Ongoing Projects**:  
+  - Implementing deep learning-based **NLP** models.  
+  - Enhancing search algorithms for real-world optimization problems.  
+- 🎯 **2024 Goals**:  
+  - Contribute to impactful **open-source projects**.  
+  - Publish research in **Machine Learning**.  
+- ⚡ **Fun Fact**:  
+  I enjoy **hackathons**, bingeing on **anime**, and solving **coding challenges**!  
+
+---
+
+### 🚀 Skills and Tools  
+
+#### 🌐 Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekjani123&show_icons=true&theme=gotham" alt="abhishekjani123" width="55%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjani123&show_icons=true&theme=gotham" width="37%" alt="abhishekjani123">
--->
+
+#### 📊 Machine Learning & AI  
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+</p>
+
+#### 🛠️ Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+#### 📊 Data Visualization  
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-2C5A7B?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+</p>
+
+---
+
+### 📈 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjani123&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjani123&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 <p>
   <h1 align="center"><b>✨ My Projects ✨</b></h1>
 </p>
+ 
+
+
 
