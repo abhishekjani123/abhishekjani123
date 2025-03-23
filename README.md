@@ -28,7 +28,7 @@
 - 🔭 **Ongoing Projects**:  
   - Implementing deep learning-based **NLP** models.  
   - Enhancing search algorithms for real-world optimization problems.  
-- 🎯 **2024 Goals**:  
+- 🎯 **2025 Goals**:  
   - Contribute to impactful **open-source projects**.  
   - Publish research in **Machine Learning**.  
 - ⚡ **Fun Fact**:  
