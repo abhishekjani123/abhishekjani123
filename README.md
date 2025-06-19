@@ -30,7 +30,7 @@
   - Enhancing search algorithms for real-world optimization problems.  
 - 🎯 **2025 Goals**:  
   - Contribute to impactful **open-source projects**.  
-  - Publish research in **Machine Learning**.  
+  - Participate in Hackathons and Improve DSA Skills**.  
 - ⚡ **Fun Fact**:  
   I enjoy **hackathons**, bingeing on **anime**, and solving **coding challenges**!  
 
