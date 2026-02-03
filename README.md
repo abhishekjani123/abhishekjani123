@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Abhishek!</h1>
-<h3 align="center">🚀 Machine Learning Enthusiast | Software Engineer | AI Innovator</h3>
+<h3 align="center"> Machine Learning Enthusiast | Software Engineer | AI Innovator</h3>
 
 ---
 
