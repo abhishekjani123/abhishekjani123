@@ -28,7 +28,7 @@
 - 🔭 **Ongoing Projects**:  
   - Implementing deep learning-based **NLP** models.  
   - Enhancing search algorithms for real-world optimization problems.  
-- 🎯 **2025 Goals**:  
+- 🎯 **2026 Goals**:  
   - Contribute to impactful **open-source projects**.  
   - Participate in Hackathons and Improve DSA Skills**.  
 - ⚡ **Fun Fact**:  
