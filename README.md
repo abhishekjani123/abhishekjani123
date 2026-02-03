@@ -93,15 +93,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjani123&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjani123&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
 <p>
   <h1 align="center"><b>✨ My Projects ✨</b></h1>
 </p>
