@@ -33,7 +33,7 @@
   - Enhancing search algorithms for real-world optimization problems.  
 - 🎯 **2026 Goals**:  
   - Contribute to impactful **open-source projects**.  
-  - Participate in Hackathons and Improve DSA Skills**.  
+  - Participate in Hackathons and Improve DSA Skills.  
 - ⚡ **Fun Fact**:  
   I enjoy **hackathons**, bingeing on **anime**, and solving **coding challenges**!  
 
