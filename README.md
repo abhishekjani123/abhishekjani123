@@ -4,6 +4,9 @@
 ---
 
 <p align="center">
+  <a href="https://abhishekjani123.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/abhishek-jani-21a570158/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
