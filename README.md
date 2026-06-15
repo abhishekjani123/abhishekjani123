@@ -13,9 +13,6 @@
   <a href="mailto:abhishekjani075@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/abhishekjani123">
-    <img src="https://img.shields.io/github/followers/abhishekjani123?style=for-the-badge&logo=github" alt="GitHub Followers">
-  </a>
 </p>
 
 ---
